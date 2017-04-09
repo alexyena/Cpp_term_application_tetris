@@ -1,0 +1,5 @@
+﻿  ActivePolymino.cpp
+c:\users\oleksii.iena\documents\visual studio 2017\projects\cpptermapplicationtetris\cpptermapplicationtetris\activepolymino.h(17): warning C4227: anachronism used: qualifiers on reference are ignored
+c:\users\oleksii.iena\documents\visual studio 2017\projects\cpptermapplicationtetris\cpptermapplicationtetris\activepolymino.cpp(5): warning C4227: anachronism used: qualifiers on reference are ignored
+  CppTermApplicationTetris.vcxproj -> C:\Users\Oleksii.Iena\Documents\Visual Studio 2017\Projects\CppTermApplicationTetris\Debug\CppTermApplicationTetris.exe
+  CppTermApplicationTetris.vcxproj -> C:\Users\Oleksii.Iena\Documents\Visual Studio 2017\Projects\CppTermApplicationTetris\Debug\CppTermApplicationTetris.pdb (Partial PDB)
