@@ -4,9 +4,9 @@
 The program is designed as term C++ studying project
 Controls:
 
-->      =     Move left
-<-      =     Move right
+->      =     Move left;
+<-      =     Move right;
 Arrow
-down    =     Drop polynimo to the bottom
+down    =     Drop polynimo to the bottom;
 
-space   =     Rotate
+space   =     Rotate;
